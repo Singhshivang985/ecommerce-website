@@ -1,6 +1,6 @@
 # Eshops
 
-Shopify is a eCommerce full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application provides an interface for users to browse and purchase products and for admins to manage the product inventory, process orders, and handle deliveries.
+Eshops is a eCommerce full-stack web application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application provides an interface for users to browse and purchase products and for admins to manage the product inventory, process orders, and handle deliveries.
 
 ## Features
 
