@@ -26,7 +26,7 @@ Eshops is a eCommerce full-stack web application built using the MERN (MongoDB, 
 
 1. **Clone the repository:**
     ```bash
-    https://github.com/alpharsh/ecommapp.git
+ https://github.com/Singhshivang985/ecommerce-website.git
     cd ecommapp
     ```
 
