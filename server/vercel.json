@@ -12,5 +12,5 @@
     }
   ],
   "routes": [{ "src": "/(.*)", "dest": "/" }]
-  {"rewrite":[{source":"/(.*)","destination":"/"}
+  {"rewrite":[{source":"/(.*)", "destination": "/"}
 }
